@@ -2,7 +2,6 @@
         src="https://github.com/No-colour-you-like/No-colour-you-like/blob/main/developer.gif"></a>
 
 ## Hey there :raised_hand_with_fingers_splayed:
-<br>
 I'm a self-taught Front-End Developer in Moscow, Russia. 
 <br>
 I have serious passion for Web-Development and creating intuitive, dynamic user experiences. 
