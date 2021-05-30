@@ -1,9 +1,10 @@
-### Hi there 👋
+## Hey there :raised_hand_with_fingers_splayed:
 
-<!--
-**No-colour-you-like/No-colour-you-like** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Front-End Developer in Moscow, Russia. 
+I have serious passion for web development and creating intuitive, dynamic user experiences. 
+I take great care in the code quality and of the things I build.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
