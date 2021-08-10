@@ -7,6 +7,7 @@ I'm a self-taught Front-End Developer in Moscow, Russia.
 I have serious passion for Web-Development and creating intuitive, dynamic user experiences. 
 I take great care in the code quality and of the things I build.
 
+You can see my works here: https://no-colour-you-like.github.io/
 
 - :desktop_computer: I like to write code
 - :open_book: I am always learning new things
