@@ -2,7 +2,7 @@
         src="https://github.com/No-colour-you-like/No-colour-you-like/blob/main/developer.gif"></a>
 
 ## Hey there :raised_hand_with_fingers_splayed:
-I'm a self-taught Front-End Developer in Moscow, Russia. 
+My name is Nikita. I'm a Front-End Developer.
 <br>
 I have serious passion for Web-Development and creating intuitive, dynamic user experiences. 
 I take great care in the code quality and of the things I build.
