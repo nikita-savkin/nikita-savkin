@@ -11,5 +11,7 @@ I'm constantly challenging myself to learn new things. I believe that the best w
 Outside of work, I'm passionate about a wide variety of things, including technology and software, science, books, sports, nutrition, and nature. These interests fuel my creativity and keep me inspired to pursue new projects and challenges.
 
 If you're interested in learning more about my work or just want to say hello, feel free to reach out to me at https://no-colour-you-like.github.io/.
-I'm always excited to connect with other developers and enthusiasts who share my love for all things tech. Thanks for stopping by!
+I'm always excited to connect with other developers and enthusiasts who share my love for all things tech. 
+
+Thanks for stopping by!
 
