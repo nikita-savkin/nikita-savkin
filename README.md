@@ -4,14 +4,13 @@
 ## Hey there :raised_hand_with_fingers_splayed:
 My name is Nikita. I'm a Front-End Developer.
 <br>
-I have serious passion for Web-Development and creating intuitive, dynamic user experiences. 
-I take great care in the code quality and of the things I build.
+Welcome to my GitHub profile! 
+My name is Nikita, and I am a Frontend Developer with a serious passion for creating intuitive and dynamic user experiences. I take pride in ensuring that my code is of the highest quality, and that everything I build is thoughtfully crafted.
 
-You can see my works here: https://no-colour-you-like.github.io/
+I'm constantly challenging myself to learn new things. I believe that the best way to grow as a developer is to stay curious and keep pushing yourself to improve.
 
-- :desktop_computer: I like to write code
-- :open_book: I am always learning new things
-- :orange_heart: My passions: Technology and Software, Science, Books, Sport, Nutrition, Nature
+Outside of work, I'm passionate about a wide variety of things, including technology and software, science, books, sports, nutrition, and nature. These interests fuel my creativity and keep me inspired to pursue new projects and challenges.
 
-- 📫 How to reach me: no.colour.you.like@gmail.com
+If you're interested in learning more about my work or just want to say hello, feel free to reach out to me at https://no-colour-you-like.github.io/.
+I'm always excited to connect with other developers and enthusiasts who share my love for all things tech. Thanks for stopping by!
 
