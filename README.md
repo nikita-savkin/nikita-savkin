@@ -2,10 +2,9 @@
         src="https://github.com/No-colour-you-like/No-colour-you-like/blob/main/developer.gif"></a>
 
 ## Hey there :raised_hand_with_fingers_splayed:
-My name is Nikita. I'm a Front-End Developer.
 <br>
 Welcome to my GitHub profile! 
-My name is Nikita, and I am a Frontend Developer with a serious passion for creating intuitive and dynamic user experiences. I take pride in ensuring that my code is of the highest quality, and that everything I build is thoughtfully crafted.
+My name is Nikita, and I am a Frontend Developer with a serious passion for creating intuitive and dynamic user experiences.
 
 I'm constantly challenging myself to learn new things. I believe that the best way to grow as a developer is to stay curious and keep pushing yourself to improve.
 
